@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531701240500",
+    "project_id": "dbcrudlavanderia",
+    "storage_bucket": "dbcrudlavanderia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531701240500:android:e60bdddaf839d53a57bde1",
+        "android_client_info": {
+          "package_name": "com.example.crudlavanderia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA389YNjAJ1pqFtzwNWiPKXTHn19BP83L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
